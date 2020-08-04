@@ -1,8 +1,6 @@
 version: '3.1' 
 services: 
   simple-roulette:
-    build:
-      context: ./
-      dockerfile: ./Dockerfile
+    image: "windsekirun/simple-roulette"
     container_name: "simple-roulette"
     restart: always
