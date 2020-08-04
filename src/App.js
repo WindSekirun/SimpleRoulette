@@ -185,7 +185,8 @@ class Roulette extends React.Component {
             아래 '대상 입력'에 'A, B, C, D' 처럼 입력
             <br />
             <br />
-            From <a href="https://github.com/Tumne/react-roulette-wheel/tree/master/">react-roulette-wheel</a> | Made by <a href="https://github.com/WindSekirun">WindSekirun</a>
+            Made by <a href="https://github.com/WindSekirun">WindSekirun</a> | Can get code from{' '}
+            <a href="https://github.com/WindSekirun/SimpleRoulette">https://github.com/WindSekirun/SimpleRoulette</a>
           </p>
           <form noValidate autoComplete="off">
             <TextField
