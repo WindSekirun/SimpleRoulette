@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Simple Roulette",
+  "name": "Simple Roulette",
   "icons": [
     {
       "src": "favicon.ico",

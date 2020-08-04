@@ -1,0 +1,8 @@
+version: '3.1' 
+services: 
+  simple-roulette:
+    build:
+      context: ./
+      dockerfile: ./Dockerfile
+    container_name: "simple-roulette"
+    restart: always
