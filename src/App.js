@@ -38,7 +38,7 @@ class Roulette extends React.Component {
 
   static defaultProps = {
     options: [],
-    baseSize: 275,
+    baseSize: 200,
     spinAngleStart: Math.random() * 10 + 10,
     spinTimeTotal: Math.random() * 3 + 4 * 1000,
   };
